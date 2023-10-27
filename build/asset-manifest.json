@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wasimdar/myfoodapp.git01/static/css/main.8118747d.css",
+    "main.js": "/wasimdar/myfoodapp.git01/static/js/main.a880c620.js",
+    "static/media/meals.jpg": "/wasimdar/myfoodapp.git01/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/wasimdar/myfoodapp.git01/index.html",
+    "main.8118747d.css.map": "/wasimdar/myfoodapp.git01/static/css/main.8118747d.css.map",
+    "main.a880c620.js.map": "/wasimdar/myfoodapp.git01/static/js/main.a880c620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8118747d.css",
+    "static/js/main.a880c620.js"
+  ]
+}

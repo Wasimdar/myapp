@@ -1,0 +1,38 @@
+/* LoginBtn.css */
+
+.login-overlay {
+    position: fixed;
+    top: 0;
+    left: 100%;
+   
+    background-color: rgba(243, 177, 177, 0.5);
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    color: white;
+    font-size: 1.5rem;
+    z-index: 1000;
+  }
+  
+  .login-link {
+    right: 100%;
+    background-color: #8a2b06;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .login-link:hover {
+    background-color: #8a2b06;
+    transform: scale(1.05);
+  }
+  
+  .login-link:focus {
+    outline: none;
+  }
+  
+  /* Add more styles as needed */
+  
